@@ -3,6 +3,17 @@
     <channel>
         <title>Nixie</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 04 Jul 2025 13:45:18 +0530</pubDate>
+            <sparkle:version>1.0.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/mem-red/nixie/refs/heads/main/Releases/Nixie-1.0.1.dmg" length="95232124" type="application/octet-stream" sparkle:edSignature="QQoMtr/9ULH2XwyTISKnwXDygWPMd92w78uOxkpvU/Xd6sfeVVQ1HbLxs3QVkS1ul7Pi6i9Ga4dsO7/HFNMjBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/mem-red/nixie/refs/heads/main/Releases/Nixie1.0.0.2-1.delta" sparkle:deltaFrom="1" length="3906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="q2SL3B+i9vNqqF18v00jFNzycN4pTcLQWKZ5hEQ5H8Mv0qJiwu6cGkmm6zX7ZEj+HoJrFwFJ7NNdutuFlrEMAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 04 Jul 2025 12:17:45 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
