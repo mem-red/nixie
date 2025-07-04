@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nixie</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 04 Jul 2025 12:17:45 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/mem-red/nixie/refs/heads/main/Releases/Nixie-1.0.0.dmg" length="95231903" type="application/octet-stream" sparkle:edSignature="NTaRkuxAhdFg2NqKJVIb82ea6AlveFavFsrXRe21srzYlnbS4PiSy3jlZANBfLf2fGpQzj7Cx1x44YFDI25uAQ=="/>
+        </item>
+    </channel>
+</rss>

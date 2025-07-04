@@ -1,0 +1,66 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:1.00000,0.61076,0.00000,1.00000",
+      "display-p3:0.96611,0.44362,0.24266,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "blend-mode" : "normal",
+      "blur-material" : null,
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "solid" : "display-p3:0.97766,1.00000,0.98919,1.00000"
+          },
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "Top.svg",
+          "name" : "Glass",
+          "opacity" : 0.35,
+          "position" : {
+            "scale" : 1.24,
+            "translation-in-points" : [
+              0,
+              56.3
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "fill" : {
+            "solid" : "display-p3:0.97766,1.00000,0.98919,1.00000"
+          },
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "inner.svg",
+          "name" : "Filament",
+          "position" : {
+            "scale" : 1.13,
+            "translation-in-points" : [
+              0,
+              216.6
+            ]
+          }
+        }
+      ],
+      "lighting" : "combined",
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 1
+      },
+      "specular" : true,
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "macOS"
+    ]
+  }
+}
